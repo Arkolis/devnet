@@ -1,0 +1,6 @@
+I am going to pass the Cisco DEVASC Examgit status!
+At this rate I will be ready for the exam in no time.
+<<<<<<< HEAD
+=======
+I am a git novice!
+>>>>>>> test
